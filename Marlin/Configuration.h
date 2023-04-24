@@ -1171,7 +1171,7 @@
  *                                      X, Y, Z [, I [, J [, K...]]], E0 [, E1[, E2...]]
  */
 //#define DEFAULT_AXIS_STEPS_PER_UNIT   { 80, 80, 400, 500 }
-#define DEFAULT_AXIS_STEPS_PER_UNIT   { 100.5, 100.5, 4000, 140  }
+#define DEFAULT_AXIS_STEPS_PER_UNIT   { 100.5, 100.5, 3200, 140  }
 /**
  * Default Max Feed Rate (linear=mm/s, rotational=°/s)
  * Override with M203
